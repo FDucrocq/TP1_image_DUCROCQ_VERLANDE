@@ -1,0 +1,3 @@
+Version de python utilisée : 3.7.3
+
+/!\ Le dossier contenant l'ensemble des images pour le script /Cours/Clustering/classificationKNN.py est à télécharger séparement.
